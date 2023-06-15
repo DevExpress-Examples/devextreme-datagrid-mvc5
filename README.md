@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # DataGrid for DevExtreme - How to use DataGrid in an MVC 5 App
 
-This sample project demonstrates how to configure the DevExtreme DataGrid widget to work with remote data served by an MVC 5 controller. In this example, the DataGrid supports the following features:
+This example demonstrates how to configure the DevExtreme DataGrid widget to work with remote data served by an MVC 5 controller. In this application, the DataGrid supports the following features:
 
 - Remote Operations (Paging, Sorting, Filtering, Grouping, Summary)
 - Master-Detail Interface
@@ -15,14 +15,14 @@ This sample project demonstrates how to configure the DevExtreme DataGrid widget
 
 ## Getting Started
 
-1. Clone the repository
+1. Clone the repository.
     ``` text
     git clone https://github.com/DevExpress-Examples/devextreme-datagrid-mvc5.git
     ```
 
-2. Open the datagrid-mvc5/datagrid-mvc5.sln solution in Visual Studio 2015 or higher
+2. Open the `datagrid-mvc5/datagrid-mvc5.sln` solution in Visual Studio 2015 or higher.
 
-3. Build and Run the solution
+3. Build and run the solution.
 
 ## Documentation
 
