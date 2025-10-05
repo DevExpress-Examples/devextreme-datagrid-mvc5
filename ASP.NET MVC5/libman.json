@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.7.1",
+      "destination": "lib/jquery",
+      "files": [
+        "dist/jquery.min.js",
+        "dist/jquery.min.map"
+      ]
+    },
+    {
+      "library": "devextreme-dist@25.1.3",
+      "destination": "lib/devextreme",
+      "files": [
+        "js/dx.all.js",
+        "css/dx.common.css",
+        "css/dx.light.css"
+      ]
+    },
+    {
+      "library": "devextreme-aspnet-data@5.1.0",
+      "destination": "lib/devextreme-aspnet-data",
+      "files": [
+        "js/dx.aspnet.data.js"
+      ]
+    }
+  ]
+}

@@ -308,3 +308,5 @@ TesterMetadata.xml
 
 !*/wwwroot/css/Site.css
 *.DS_Store
+/ASP.NET MVC5/.tools
+/ASP.NET MVC5/lib
