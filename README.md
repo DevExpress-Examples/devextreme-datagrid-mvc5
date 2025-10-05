@@ -21,7 +21,7 @@ This example demonstrates how to configure the DevExtreme DataGrid widget to wor
     git clone https://github.com/DevExpress-Examples/devextreme-datagrid-mvc5.git
     ```
 
-2. Open the `datagrid-mvc5/datagrid-mvc5.sln` solution in Visual Studio 2015 or higher.
+2. Open the `ASP.NET MVC5/datagrid-mvc5.sln` solution in Visual Studio 2015 or higher.
 
 3. Build and run the solution.
 
