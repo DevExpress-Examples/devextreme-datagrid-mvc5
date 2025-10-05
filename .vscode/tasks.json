@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build and Run MVC Project",
+			"type": "shell",
+			"command": "cd datagrid-mvc5 && dotnet build datagrid-mvc5.sln && echo 'Build completed. To run the project, open the solution in Visual Studio or use IIS Express.'",
+			"isBackground": false,
+			"group": "build"
+		}
+	]
+}
